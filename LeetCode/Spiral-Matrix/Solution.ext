@@ -1,2 +1,49 @@
-Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
-Output: [1,2,3,6,9,8,7,4,5]
+class Solution {
+    public List<Integer> spiralOrder(int[][] matrix) {
+
+        List<Integer> spiralMat = new ArrayList<>();
+        int startRow = 0;
+        int startCol = 0;
+        int endRow = matrix.length-1;
+        int endCol = matrix[0].length-1;
+
+        if (matrix == null || matrix.length == 0)
+            return spiralMat;
+
+        while (startRow <= endRow && startCol <= endCol){
+            //Print top elements
+            for(int j=startCol; j<=endCol; j++){
+                spiralMat.add(matrix[startRow][j]);
+                
+            }
+
+            //Print most right elements
+            for(int i=startRow+1; i<=endRow; i++){
+                spiralMat.add(matrix[i][endCol]);
+            }
+
+            //Print bottom elements
+            for(int j=endCol-1; j>=startCol; j--){
+                if(startRow == endRow)
+                    break;
+                spiralMat.add(matrix[endRow][j]);
+            }
+
+            //Print left most elements
+            for(int i=endRow-1; i>=startRow+1; i--){
+                if(startCol == endCol)
+                    break;
+                spiralMat.add(matrix[i][startCol]);
+            }
+
+            startRow++;
+            startCol++;
+            endRow--;
+            endCol--;
+
+        }
+
+        return spiralMat;
+        
+    }
+}
