@@ -1,6 +1,35 @@
-Input: nums = [1,7,3,6,5,6]
-Output: 3
-Explanation:
-The pivot index is 3.
-Left sum = nums[0] + nums[1] + nums[2] = 1 + 7 + 3 = 11
-Right sum = nums[4] + nums[5] = 5 + 6 = 11
+class Solution {
+    public int pivotIndex(int[] nums) {
+
+        int len = nums.length;
+
+        int[] leftSum = new int[len];
+
+
+        leftSum[0] = 0;
+        for(int i=1; i<len; i++){
+
+            leftSum[i] = leftSum[i-1] + nums[i-1];
+
+        }
+
+        int[] rightSum = new int[len];
+        rightSum[len-1] = 0;
+        for(int i=len-2; i>=0; i--){
+
+            rightSum[i] = rightSum[i+1] + nums[i+1];
+
+        }
+
+        for(int i=0; i<len; i++){
+            if(leftSum[i] == rightSum[i]){
+
+                return i;
+
+            }
+        }
+
+        return -1;
+        
+    }
+}
