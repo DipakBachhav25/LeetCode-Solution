@@ -1,3 +1,23 @@
-Input: chars = ["a","a","b","b","c","c","c"]
-Output: Return 6, and the first 6 characters of the input array should be: ["a","2","b","2","c","3"]
-Explanation: The groups are "aa", "bb", and "ccc". This compresses to "a2b2c3".
+class Solution {
+     public int compress(char[] chars) {
+
+        StringBuilder sb = new StringBuilder("");
+        for(int i=0; i<chars.length; i++){
+
+            Integer count = 1;
+            while(i < chars.length-1 && chars[i] == chars[i+1]){
+                count++;
+                i++;
+            }
+            sb.append(chars[i]);
+            if(count > 1){
+                sb.append(count.toString());
+            }
+        }
+
+        char[] compresseChars = sb.toString().toCharArray();
+        System.arraycopy(compresseChars, 0, chars, 0, compresseChars.length);
+        return sb.length();
+
+    }
+}
