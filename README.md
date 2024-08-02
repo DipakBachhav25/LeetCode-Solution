@@ -19,6 +19,7 @@ Leetcode solution here
 | [0021-merge-two-sorted-lists](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -34,6 +35,7 @@ Leetcode solution here
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
