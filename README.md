@@ -11,6 +11,7 @@ Leetcode solution here
 | [0027-remove-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Leetcode solution here
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -76,4 +78,8 @@ Leetcode solution here
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
