@@ -14,6 +14,7 @@ Leetcode solution here
 | [0088-merge-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Leetcode solution here
 | [0142-linked-list-cycle-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Leetcode solution here
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
