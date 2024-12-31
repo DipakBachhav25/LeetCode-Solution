@@ -60,6 +60,7 @@ Leetcode solution here
 | [0206-reverse-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@ Leetcode solution here
 | [0050-powx-n](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
@@ -106,6 +108,7 @@ Leetcode solution here
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
