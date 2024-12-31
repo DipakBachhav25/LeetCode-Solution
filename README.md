@@ -10,6 +10,7 @@ Leetcode solution here
 | [0004-median-of-two-sorted-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0136-single-number) |
@@ -72,6 +73,7 @@ Leetcode solution here
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0066-plus-one) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
 |  |
