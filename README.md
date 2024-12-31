@@ -8,6 +8,7 @@ Leetcode solution here
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0066-plus-one) |
@@ -39,6 +40,7 @@ Leetcode solution here
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
@@ -102,4 +104,8 @@ Leetcode solution here
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
