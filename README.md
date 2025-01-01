@@ -68,6 +68,7 @@ Leetcode solution here
 | ------- |
 | [0020-valid-parentheses](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -125,4 +126,8 @@ Leetcode solution here
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
