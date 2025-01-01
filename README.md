@@ -1,6 +1,7 @@
 # LeetCode-Solution
-solution
-Leetcode solution here
+## Leetcode solutions is here..
+
+[![Leetcode Solution](https://res.cloudinary.com/dxebmxfnh/image/upload/v1735724327/ux2cjrmvvuhum8dav7h3.png)]
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
