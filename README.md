@@ -22,6 +22,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0283-move-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
