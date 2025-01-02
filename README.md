@@ -12,6 +12,7 @@
 | [0011-container-with-most-water](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
