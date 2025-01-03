@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -160,4 +162,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
