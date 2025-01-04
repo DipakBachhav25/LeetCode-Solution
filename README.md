@@ -24,6 +24,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2358-number-of-ways-to-split-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -153,6 +154,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
