@@ -113,6 +113,7 @@
 | [0014-longest-common-prefix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Divide and Conquer
@@ -158,6 +159,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2358-number-of-ways-to-split-array) |
