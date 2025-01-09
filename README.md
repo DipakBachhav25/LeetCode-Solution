@@ -124,6 +124,7 @@
 | [0014-longest-common-prefix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [1524-string-matching-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
