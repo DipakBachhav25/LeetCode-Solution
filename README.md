@@ -28,6 +28,7 @@
 | [0739-daily-temperatures](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
