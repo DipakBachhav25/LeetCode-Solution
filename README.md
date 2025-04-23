@@ -60,6 +60,7 @@
 | [0203-remove-linked-list-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
