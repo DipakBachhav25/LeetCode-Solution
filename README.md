@@ -127,6 +127,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2083-three-divisors](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2083-three-divisors) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
@@ -233,10 +234,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2083-three-divisors) |
 ## Sliding Window
 |  |
 | ------- |
