@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -126,6 +127,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0204-count-primes) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
