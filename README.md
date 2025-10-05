@@ -173,6 +173,7 @@
 | [2465-shifting-letters-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3396-valid-word](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3396-valid-word) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
