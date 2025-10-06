@@ -100,6 +100,7 @@
 | [0234-palindrome-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
@@ -140,6 +141,7 @@
 | [0326-power-of-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2083-three-divisors](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2083-three-divisors) |
@@ -297,6 +299,7 @@
 | [0053-maximum-subarray](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 ## Data Stream
 |  |
 | ------- |
@@ -306,4 +309,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
