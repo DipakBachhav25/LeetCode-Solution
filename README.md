@@ -33,6 +33,7 @@
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -191,6 +192,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -245,6 +247,7 @@
 | [0011-container-with-most-water](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Simulation
 |  |
@@ -335,6 +338,7 @@
 | [0338-counting-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1250-longest-common-subsequence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Data Stream
 |  |
 | ------- |
