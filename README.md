@@ -51,6 +51,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
@@ -145,6 +146,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
@@ -309,6 +311,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -360,6 +363,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Quickselect
 |  |
 | ------- |
