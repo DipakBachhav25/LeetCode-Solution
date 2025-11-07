@@ -45,6 +45,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2465-shifting-letters-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -63,6 +64,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0374-guess-number-higher-or-lower](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Linked List
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Simulation
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2465-shifting-letters-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
@@ -315,6 +319,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
@@ -357,6 +362,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Memoization
 |  |
 | ------- |
