@@ -238,6 +238,7 @@
 | [0136-single-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -353,6 +354,7 @@
 | [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Data Stream
 |  |
 | ------- |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Merge Sort
 |  |
 | ------- |
