@@ -221,6 +221,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3396-valid-word) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
@@ -268,6 +270,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
