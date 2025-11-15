@@ -167,6 +167,7 @@
 | [0012-integer-to-roman](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0326-power-of-three) |
@@ -370,6 +371,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0474-ones-and-zeroes) |
@@ -390,6 +392,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Merge Sort
