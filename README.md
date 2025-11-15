@@ -129,6 +129,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
@@ -413,6 +414,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [3863-power-grid-maintenance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -426,4 +428,12 @@
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3863-power-grid-maintenance) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
