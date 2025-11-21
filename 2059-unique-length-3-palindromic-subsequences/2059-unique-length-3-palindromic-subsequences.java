@@ -1,30 +1,28 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        HashMap<Character, Integer> firstOccurence = new HashMap<Character, Integer>();
-        HashMap<Character, Integer> lastOccurence = new HashMap<Character, Integer>();
         int n = s.length();
+        int count = 0;
+
+        int[] firstIdx = new int[26];
+        int[] lastIdx = new int[26];
+        Arrays.fill(firstIdx, -1);
+        Arrays.fill(lastIdx, -1);
 
         for(int i=0; i<n; i++){
-            char ch = s.charAt(i);
-            if(!firstOccurence.containsKey(ch)){
-                firstOccurence.put(ch, i);
-            }
-            lastOccurence.put(ch, i);
+            int idx = s.charAt(i)-'a';
+            if(firstIdx[idx] == -1) firstIdx[idx] = i;
+            lastIdx[idx] = i;
         }
 
-        int count = 0;
-        for(char ch : firstOccurence.keySet()){
-            int f = firstOccurence.get(ch);
-            int l = lastOccurence.get(ch);
-            if(f == l) continue;
-            HashSet<Character> set = new HashSet<>();
-            for(int i=f+1; i<l; i++){
-                set.add(s.charAt(i));
+        for(int c=0; c<26; c++){
+            if(((firstIdx[c] != -1) && (lastIdx[c] != -1)) && (firstIdx[c] < lastIdx[c])){
+                Set<Character> set = new HashSet<>();
+                for(int i=firstIdx[c]+1; i<lastIdx[c]; i++){
+                    set.add(s.charAt(i));
+                }
+                count += set.size();
             }
-
-            count += set.size();
         }
-
         return count;
     }
 }
