@@ -161,6 +161,7 @@
 | [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -186,6 +187,7 @@
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1448-maximum-69-number) |
