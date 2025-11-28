@@ -449,6 +449,7 @@
 | [0100-same-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -470,6 +471,7 @@
 | [0100-same-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
