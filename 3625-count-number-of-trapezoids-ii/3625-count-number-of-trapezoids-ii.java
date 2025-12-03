@@ -17,13 +17,10 @@ class Solution {
                 int x1 = points[j][0];
                 int y1 = points[j][1];
 
-                // Line through (x0, y0), (x1, y1): a x + b y + c = 0
                 int a = y1 - y0;
                 int b = x0 - x1;
-                // Be careful with overflow here if coordinates are large.
                 int c = y0 * x1 - y1 * x0;
 
-                // normalize sign so the first non-zero coeff is positive
                 if (a == 0 && b < 0) {
                     b = -b;
                     c = -c;
@@ -36,15 +33,12 @@ class Solution {
                 int gm = gcd(a, b);
                 int gc = gcd(gm, c);
 
-                // normalized "slope" as normal vector (a, b) / gm
                 int slopeNum = a / gm;
                 int slopeDen = b / gm;
 
-                // normalized intercept as c/gm, stored as reduced fraction
                 int interNum = c / gc;
                 int interDen = gm / gc;
 
-                // midpoint * 2 (to avoid fractions)
                 int midX = x0 + x1;
                 int midY = y0 + y1;
 
@@ -55,18 +49,15 @@ class Solution {
                 slopeKey[k]  = slopePacked;
                 interKey[k]  = interPacked;
                 midKey[k]    = midPacked;
-                slope2Key[k] = slopePacked; // same slope representation
+                slope2Key[k] = slopePacked;
             }
         }
 
-        // sort by (slope, intercept)
         sortTwoKeys(slopeKey, interKey, 0, n2 - 1);
-        // sort by (midpoint, slope)
         sortTwoKeys(midKey, slope2Key, 0, n2 - 1);
 
         long cnt = 0;
 
-        // 1) Count all unordered pairs of parallel, non-collinear segments
         {
             List<Integer> groups = new ArrayList<>();
             long curSlope = slopeKey[0];
@@ -88,9 +79,8 @@ class Solution {
                         curInter = b;
                     }
                 } else {
-                    // flush previous slope group
                     groups.add(sameLineCount);
-                    cnt += cntShapes(sameSlopeCount, groups) / 2; // they counted twice
+                    cnt += cntShapes(sameSlopeCount, groups) / 2;
 
                     groups.clear();
                     curSlope = s;
@@ -98,12 +88,10 @@ class Solution {
                     sameSlopeCount = sameLineCount = 1;
                 }
             }
-            // flush last slope group
             groups.add(sameLineCount);
             cnt += cntShapes(sameSlopeCount, groups) / 2;
         }
 
-        // 2) Subtract parallelograms using (midpoint, slope)
         {
             List<Integer> groups = new ArrayList<>();
             long curMid = midKey[0];
@@ -125,7 +113,6 @@ class Solution {
                         curSlope = s;
                     }
                 } else {
-                    // flush previous midpoint group
                     groups.add(sameSlopeCount);
                     cnt -= cntShapes(sameMidCount, groups) / 2;
 
@@ -135,7 +122,6 @@ class Solution {
                     sameMidCount = sameSlopeCount = 1;
                 }
             }
-            // flush last midpoint group
             groups.add(sameSlopeCount);
             cnt -= cntShapes(sameMidCount, groups) / 2;
         }
@@ -143,9 +129,6 @@ class Solution {
         return (int) cnt;
     }
 
-    // ----------------- Helpers -----------------
-
-    // gcd on ints, always non-negative
     private static int gcd(int a, int b) {
         a = Math.abs(a);
         b = Math.abs(b);
@@ -159,12 +142,10 @@ class Solution {
         return a;
     }
 
-    // Pack two 32-bit ints into one 64-bit long, preserving sign
     private static long pack2(int x, int y) {
         return (((long) x) << 32) ^ (y & 0xffffffffL);
     }
 
-    // Sort two parallel arrays by (key1, key2) lexicographically
     private static void sortTwoKeys(long[] key1, long[] key2, int left, int right) {
         if (left >= right) return;
         int i = left;
@@ -199,12 +180,11 @@ class Solution {
         arr[j] = tmp;
     }
 
-    // Same formula as your C++ cntShapes (but using long to avoid overflow)
     private static long cntShapes(int total, List<Integer> lineCounts) {
         long sum = 0;
         for (int x : lineCounts) {
             sum += (long) x * (total - x);
         }
-        return sum; // caller divides by 2
+        return sum;
     }
 }
