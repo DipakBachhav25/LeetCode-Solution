@@ -65,6 +65,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -209,6 +210,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -354,6 +356,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Trie
 |  |
 | ------- |
