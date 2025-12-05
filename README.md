@@ -193,6 +193,7 @@
 | [0012-integer-to-roman](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0204-count-primes) |
@@ -232,6 +233,7 @@
 | [0020-valid-parentheses](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0344-reverse-string) |
@@ -286,6 +288,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
@@ -320,6 +323,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
