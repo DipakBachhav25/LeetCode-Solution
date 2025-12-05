@@ -503,4 +503,8 @@
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3625-count-number-of-trapezoids-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
