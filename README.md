@@ -268,6 +268,7 @@
 | [0053-maximum-subarray](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -290,6 +291,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
