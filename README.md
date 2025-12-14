@@ -220,6 +220,7 @@
 | [1925-count-square-sum-triples](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -265,6 +266,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -460,6 +462,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Data Stream
