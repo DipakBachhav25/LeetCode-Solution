@@ -272,6 +272,7 @@
 | [1894-merge-strings-alternately](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
