@@ -1,16 +1,14 @@
 class Solution {
     public int maxProfit(int n, int[] present, int[] future, int[][] hierarchy, int budget) {
 
-        List<List<Integer>> hc = Arrays.stream(hierarchy)
-        .map(innerArray -> IntStream.of(innerArray).boxed().collect(Collectors.toList())).collect(Collectors.toList());
-
         List<List<Integer>> adjList = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             adjList.add(new ArrayList<>());
         }
-        for (List<Integer> h : hc) {
-            adjList.get(h.get(0) - 1).add(h.get(1) - 1);
+        for (int[] h : hierarchy) {
+            adjList.get(h[0] - 1).add(h[1] - 1);
         }
+
 
         Map<String, Map<Integer, Integer>> memo = new HashMap<>();
 
