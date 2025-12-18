@@ -7,8 +7,7 @@ class Solution {
         long[] prefPrice = new long[n + 1];
 
         for (int i = 0; i < n; i++) {
-            long orig = (long) strategy[i] * prices[i];
-            prefOrig[i + 1] = prefOrig[i] + orig;
+            prefOrig[i + 1] = prefOrig[i] + (long) strategy[i] * prices[i];
             prefPrice[i + 1] = prefPrice[i] + prices[i];
         }
 
