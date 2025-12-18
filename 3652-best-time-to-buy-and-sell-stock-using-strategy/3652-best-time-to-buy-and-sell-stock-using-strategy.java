@@ -6,7 +6,6 @@ class Solution {
         long[] prefOrig = new long[n + 1];
         long[] prefPrice = new long[n + 1];
 
-        // Build prefix sums
         for (int i = 0; i < n; i++) {
             long orig = (long) strategy[i] * prices[i];
             prefOrig[i + 1] = prefOrig[i] + orig;
@@ -14,9 +13,8 @@ class Solution {
         }
 
         long originalProfit = prefOrig[n];
-        long bestDelta = 0; // at most one modification
+        long bestDelta = 0;
 
-        // Slide window
         for (int l = 0; l + k <= n; l++) {
             int mid = l + half;
             int r = l + k;
