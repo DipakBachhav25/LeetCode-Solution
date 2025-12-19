@@ -317,6 +317,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0759-set-intersection-size-at-least-two) |
 | [1051-height-checker](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3433-count-mentions-per-user) |
@@ -527,6 +528,7 @@
 | [0100-same-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3863-power-grid-maintenance) |
@@ -534,14 +536,17 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0100-same-tree) |
+| [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
