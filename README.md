@@ -189,6 +189,7 @@
 | [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
@@ -271,6 +272,7 @@
 | [0242-valid-anagram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
