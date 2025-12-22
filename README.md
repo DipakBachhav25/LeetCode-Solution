@@ -40,6 +40,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -278,6 +279,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
@@ -490,6 +492,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0474-ones-and-zeroes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
