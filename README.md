@@ -53,6 +53,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -102,6 +103,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0374-guess-number-higher-or-lower](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Linked List
@@ -329,6 +331,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0759-set-intersection-size-at-least-two) |
 | [1051-height-checker](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -498,6 +501,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -529,6 +533,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3863-power-grid-maintenance) |
