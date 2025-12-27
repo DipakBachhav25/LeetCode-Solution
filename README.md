@@ -64,6 +64,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2358-number-of-ways-to-split-array) |
+| [2402-meeting-rooms-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2465-shifting-letters-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2465-shifting-letters-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -202,6 +203,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -338,6 +340,7 @@
 | [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3433-count-mentions-per-user) |
@@ -396,6 +399,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
@@ -542,6 +546,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3863-power-grid-maintenance) |
