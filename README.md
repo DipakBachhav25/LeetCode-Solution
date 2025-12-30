@@ -37,6 +37,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0759-set-intersection-size-at-least-two) |
+| [0840-magic-squares-in-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -200,6 +201,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0756-pyramid-transition-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
@@ -237,6 +239,7 @@
 | [0326-power-of-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -484,6 +487,7 @@
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0840-magic-squares-in-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
