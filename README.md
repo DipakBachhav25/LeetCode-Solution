@@ -77,6 +77,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2942-find-words-containing-character](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2942-find-words-containing-character) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -320,6 +321,7 @@
 | [2465-shifting-letters-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2942-find-words-containing-character](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2942-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3396-valid-word) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
