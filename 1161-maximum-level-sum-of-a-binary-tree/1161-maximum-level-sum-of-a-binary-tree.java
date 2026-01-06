@@ -45,6 +45,7 @@ class Solution {
 
         // return ans;
 
+        // This solution takes 9ms time which is better than above solution
         while(!q.isEmpty()){
             int size = q.size();
             int currSum = 0;
