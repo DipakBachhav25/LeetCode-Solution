@@ -48,6 +48,7 @@
 | [1051-height-checker](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-string-matching-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -539,6 +540,7 @@
 | [1250-longest-common-subsequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
