@@ -28,6 +28,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -207,6 +208,7 @@
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0383-ransom-note) |
@@ -499,6 +501,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
