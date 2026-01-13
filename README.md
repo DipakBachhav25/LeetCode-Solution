@@ -90,6 +90,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3453-separate-squares-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3531-count-covered-buildings) |
@@ -121,6 +122,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3453-separate-squares-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3453-separate-squares-i) |
 ## Linked List
 |  |
 | ------- |
