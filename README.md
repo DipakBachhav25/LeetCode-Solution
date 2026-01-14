@@ -29,6 +29,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -211,6 +212,7 @@
 | [0202-happy-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0383-ransom-note) |
@@ -359,6 +361,7 @@
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -398,6 +401,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2351-first-letter-to-appear-twice) |
