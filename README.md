@@ -85,6 +85,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2942-find-words-containing-character) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -378,6 +379,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3433-count-mentions-per-user) |
