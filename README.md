@@ -123,6 +123,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0374-guess-number-higher-or-lower](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
@@ -399,6 +400,7 @@
 | [0067-add-binary](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0461-hamming-distance) |
@@ -671,6 +673,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -685,6 +688,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
