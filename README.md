@@ -37,6 +37,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0474-ones-and-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0474-ones-and-zeroes) |
+| [0496-next-greater-element-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0739-daily-temperatures) |
@@ -206,6 +207,7 @@
 | [0225-implement-stack-using-queues](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0937-online-stock-span) |
 | [2211-count-collisions-on-a-road](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
@@ -227,6 +229,7 @@
 | [0242-valid-anagram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0756-pyramid-transition-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -299,6 +302,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0937-online-stock-span) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
