@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0053-maximum-subarray) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
