@@ -12,8 +12,10 @@ class Solution {
 
         // return ans;
 
-        // The above solution takes O(nlogn)
+        // The above solution takes O(nlogn) time complexity
 
+
+        // This solution take O(n) time complexity
         int[] freq = new int[100001];
         int minVal = Integer.MAX_VALUE;
         int maxVal = Integer.MIN_VALUE;
