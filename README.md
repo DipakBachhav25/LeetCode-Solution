@@ -70,6 +70,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2102-find-the-middle-index-in-array) |
@@ -399,6 +400,7 @@
 | [1051-height-checker](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -549,6 +551,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
