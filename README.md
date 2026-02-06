@@ -128,6 +128,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -429,6 +430,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -577,6 +579,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Matrix
 |  |
