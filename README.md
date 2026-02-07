@@ -232,6 +232,7 @@
 | [0496-next-greater-element-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0937-online-stock-span) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -365,6 +366,7 @@
 | [1524-string-matching-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -633,6 +635,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
