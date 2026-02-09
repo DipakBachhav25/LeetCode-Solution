@@ -399,6 +399,7 @@
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -473,6 +474,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -700,6 +702,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -742,6 +745,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -759,6 +763,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -810,4 +815,8 @@
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
