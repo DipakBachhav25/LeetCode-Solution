@@ -38,6 +38,7 @@
 | [0283-move-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0414-third-maximum-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0474-ones-and-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -422,6 +423,7 @@
 | [0229-majority-element-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0759-set-intersection-size-at-least-two) |
 | [0977-squares-of-a-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
