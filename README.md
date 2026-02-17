@@ -455,6 +455,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0461-hamming-distance) |
 | [0756-pyramid-transition-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -528,6 +529,7 @@
 | ------- |
 | [0046-permutations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0051-n-queens) |
+| [0401-binary-watch](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 ## Prefix Sum
 |  |
