@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0051-n-queens) |
@@ -245,6 +246,7 @@
 | [0001-two-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
@@ -608,6 +610,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0840-magic-squares-in-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
