@@ -202,6 +202,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -363,6 +364,7 @@
 | [0383-ransom-note](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
