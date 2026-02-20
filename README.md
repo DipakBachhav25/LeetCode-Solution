@@ -367,6 +367,7 @@
 | [0696-count-binary-substrings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -412,6 +413,7 @@
 | [0169-majority-element](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3721-longest-balanced-subarray-ii) |
@@ -430,6 +432,7 @@
 | [0414-third-maximum-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1200-minimum-absolute-difference) |
