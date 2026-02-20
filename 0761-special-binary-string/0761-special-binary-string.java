@@ -13,8 +13,9 @@ class Solution {
             if(count == 0){
                 String inner = s.substring(st+1, i);
                 String tmp = makeLargestSpecial(inner);
-
-                list.add("1"+tmp+"0");
+                StringBuilder sb = new StringBuilder(tmp.length()+2);
+                sb.append('1').append(tmp).append('0');
+                list.add(sb.toString());
 
                 st = i+1;
             }
