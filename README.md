@@ -377,6 +377,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1250-longest-common-subsequence) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
@@ -475,6 +476,7 @@
 | [0868-binary-gap](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -523,6 +525,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2058-concatenation-of-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
