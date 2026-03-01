@@ -385,6 +385,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -513,6 +514,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
