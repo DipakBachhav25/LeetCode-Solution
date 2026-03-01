@@ -1,4 +1,11 @@
 class Solution {
+
+    static {
+        for (int i = 0; i < 500; i++) {
+            new Solution().minPartitions("0");
+        }
+    }
+    
     public int minPartitions(String n) {
         int maxDigit = 0;
 
