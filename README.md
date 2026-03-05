@@ -389,6 +389,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
