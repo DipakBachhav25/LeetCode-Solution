@@ -1,28 +1,35 @@
 class Solution {
     public int numberOfStableArrays(int zero, int one, int limit) {
-        long MOD = 1_000_000_007;
-        long[][][] dp = new long[zero+1][one+1][2];
+        int MOD = 1000000007;
+        
+        int[][] dp0 = new int[zero + 1][one + 1];
+        int[][] dp1 = new int[zero + 1][one + 1];
 
-        for(int i=1; i<=Math.min(zero, limit); i++){
-            dp[i][0][0] = 1;
+        int maxZeroBase = Math.min(zero, limit);
+        for (int i = 1; i <= maxZeroBase; i++) {
+            dp0[i][0] = 1;
+        }
+        
+        int maxOneBase = Math.min(one, limit);
+        for (int j = 1; j <= maxOneBase; j++) {
+            dp1[0][j] = 1;
         }
 
-        for(int i=1; i<=Math.min(one, limit); i++){
-            dp[0][i][1] = 1;
-        }
+        for (int i = 1; i <= zero; i++) {
+            for (int j = 1; j <= one; j++) {
+                
+                dp0[i][j] = (dp0[i - 1][j] + dp1[i - 1][j]) % MOD;
+                if (i > limit) {
+                    dp0[i][j] = (dp0[i][j] - dp1[i - limit - 1][j] + MOD) % MOD;
+                }
 
-        for(int i=1; i<=zero; i++){
-            for(int j=1; j<=one; j++){
-                dp[i][j][0] = (dp[i-1][j][0] + dp[i-1][j][1])%MOD;
-
-                if(i > limit) dp[i][j][0] = (dp[i][j][0] - dp[i-1-limit][j][1] + MOD)%MOD;
-
-                dp[i][j][1] = (dp[i][j-1][0] + dp[i][j-1][1])%MOD;
-
-                if(j > limit) dp[i][j][1] = (dp[i][j][1] - dp[i][j-1-limit][0] + MOD)%MOD;
+                dp1[i][j] = (dp0[i][j - 1] + dp1[i][j - 1]) % MOD;
+                if (j > limit) {
+                    dp1[i][j] = (dp1[i][j] - dp0[i][j - limit - 1] + MOD) % MOD;
+                }
             }
         }
 
-        return (int) ((dp[zero][one][0] + dp[zero][one][1])%MOD);
+        return (dp0[zero][one] + dp1[zero][one]) % MOD;
     }
 }
