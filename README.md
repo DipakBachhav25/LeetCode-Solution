@@ -163,6 +163,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3453-separate-squares-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Linked List
 |  |
 | ------- |
@@ -533,6 +534,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
@@ -879,6 +881,7 @@
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -889,4 +892,12 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
