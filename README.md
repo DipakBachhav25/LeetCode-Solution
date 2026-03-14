@@ -387,6 +387,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
@@ -572,6 +573,7 @@
 | [0051-n-queens](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
 |  |
