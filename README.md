@@ -329,6 +329,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1925-count-square-sum-triples) |
@@ -566,6 +567,7 @@
 | [0225-implement-stack-using-queues](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0937-online-stock-span) |
+| [1622-fancy-sequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1622-fancy-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -872,6 +874,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3721-longest-balanced-subarray-ii) |
