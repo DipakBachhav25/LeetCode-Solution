@@ -73,6 +73,7 @@
 | [1833-find-the-highest-altitude](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -332,6 +333,7 @@
 | [1622-fancy-sequence](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -459,6 +461,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
@@ -587,6 +590,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1833-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -662,6 +666,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
@@ -750,6 +755,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
