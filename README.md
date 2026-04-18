@@ -356,6 +356,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/DipakBachhav25/LeetCode-Solution/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Monotonic Stack
 |  |
